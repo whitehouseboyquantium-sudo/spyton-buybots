@@ -1,0 +1,39 @@
+{
+  "chats": {
+    "-1003514916889": {
+      "tokens": {
+        "EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko": {
+          "address": "EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko",
+          "name": "Resistance Dog",
+          "symbol": "REDO",
+          "pools": {
+            "ston": [],
+            "dedust": [
+              "EQDOVpP9PXViD7p3gpP2WrWLvoje0ImYRmtsVlShxMK4KBOX",
+              "EQDw_C9c0_6ocxSVswtNE8Y_cO2nx_Pa73aJnPOWknl9mSGb",
+              "EQC5uZ2HaIaxYY_FhU7A6gwRtl_M9Na1gymy5VWHWqwNzjpB",
+              "EQC_5lzhUPyJekJJl-FwE6sFXv1fTb5WyrUe1Tm0dl5VhpYJ",
+              "EQBmJXR_gv2bKDESr7gMLh97FFGFejPD1GR-1zKiKg9tpOfl"
+            ]
+          }
+        },
+        "EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2": {
+          "address": "EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2",
+          "name": "Paper Plane",
+          "symbol": "PLANE",
+          "emoji": "🟢",
+          "min_buy_ton": 0.0,
+          "pools": {
+            "ston": [],
+            "dedust": []
+          },
+          "added_at": 1768780464
+        }
+      },
+      "default_image_file_id": "AgACAgQAAyEFAATRgWAZAAICCmltYq0KUOiAlkzug4uJDo-KgLBmAAIlC2sbm6lxU3w_v8y1yqpjAQADAgADeQADOAQ",
+      "default_image_url": null,
+      "min_buy_ton": 0.0,
+      "topic_id": null
+    }
+  }
+}

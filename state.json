@@ -1,0 +1,37 @@
+{
+  "leaderboard_msg_id": 12285,
+  "ston_last_block": 56625787,
+  "dedust_last_id": {
+    "EQDm9Y7LO11jt_s-svX_oF0MRnrwkEjweYp0fgWFGXzH5KyX": "66266484000020"
+  },
+  "dedust_last_lt": {},
+  "blum_last_lt": {},
+  "trend_ranks": {},
+  "UWIF": {
+    "volume_usd": 278.89,
+    "ts": 1768768134
+  },
+  "CATI": {
+    "volume_usd": 627.46,
+    "ts": 1768771343
+  },
+  "ston_last_lt_map": {
+    "EQAOkcLROvIMcaXNnp4mE7x9u1eEOJoTrebPBK-UHPTlZbCe": 66294844000009,
+    "EQBsfjI_Q3kKWcsXXateQqOCcc9hZ6pe2FNouWimyHG-4HDK": 66269685000009,
+    "EQDvfKmyzqW2rpiF8CFSxd1pTF2N8slolDxW5ulf0TBxAcfc": 66295482000009,
+    "EQAEpn1JNund5_ZyVr9Tt6zFmjaerqsnHrt-ZYyJbMjIJlpQ": 66268007000007,
+    "EQCcD96ywHvlXBjuf4ihiGyH66QChHesNyoJSQ6WKKqob3Lh": 66290506000007,
+    "EQA6iSEwPMemyd2I3QNnLU2dHUNdW_7Y3wrQ3YKVUEIwscrP": 66295634000007,
+    "EQBCwe_IObXA4Mt3RbcHil2s4-v4YQS3wUDt1-DvZOceeMGO": 66295652000007,
+    "EQA4Y4PJcx8ytBB6OU0VjIlyHrWjNTktuvHRY1D9OEnsxBBK": 66289236000029,
+    "EQAG-XNIlMd5ob5jQTPLYf0T-kw_7hRIxG9oPqj1hZXP1N5P": 66294792000007,
+    "EQB-2nOKHN3EHTd82iASHdSbW3QIrjGGPdPYgCtX0okWsd_2": 66294121000012,
+    "EQDTG1FR2p9buAwsgRPt252a7b1KB0jKNY054UaUgFDorbWK": 66294275000009,
+    "EQBXyg8CGiiNsriRUKFeyMf_4kwV7145uYTzJegDTGGFhlgv": 66295738000009,
+    "EQBAKUBvV_ppbcMCPnWQXKfV1IIHtve5ImYA8-wg0hpMzNH8": 66273290000007,
+    "EQCO9NDT4Il25_4ZpHIOgMAUbRJvpsI9pLzqhD8X7eTVB7X_": 66295639000009,
+    "EQBCYM_YUcVocw45DGVDvTZmxdwFa3acHa8gKkHu7XVpA7ri": 66291608000007,
+    "EQC_8KC8EZha5JRDL8z54etKKkAY4Wpupbnp5_V8uDWAVs2U": 66295491000009,
+    "EQDh2lI1swku9j7sCNfG_-oyT_TMsANa72SiZGh2YZlgk9kI": 66294720000009
+  }
+}
